@@ -1,0 +1,9 @@
+EXPERIMENT SUMMARY — GENERATED FROM YOUR RUN
+Dataset sample: 10000 reviews (5000 per class)
+Train records: 8000
+Test records: 2000
+Positive class used for Precision/Recall/F1: positive
+Highest F1-score in this run: SVM (0.8597)
+
+Full metrics are in algorithm_comparison.csv.
+Do not claim this model is universally best; the conclusion applies to this dataset and setup.

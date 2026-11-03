@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Dataset: do not accidentally commit the downloaded raw dataset
+dataset/*.csv
+dataset/*.zip
+
+# Keep the results folder in Git, but generated results should be added
+# deliberately after you have run and checked them.
